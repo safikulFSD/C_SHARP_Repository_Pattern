@@ -1,0 +1,21 @@
+D:\Project 1280472\ESED_CS_R58\Ex.01\bin\Debug\Ex.01.exe.config
+D:\Project 1280472\ESED_CS_R58\Ex.01\bin\Debug\Ex.01.exe
+D:\Project 1280472\ESED_CS_R58\Ex.01\bin\Debug\Ex.01.pdb
+D:\Project 1280472\ESED_CS_R58\Ex.01\obj\Debug\Ex.01.csproj.AssemblyReference.cache
+D:\Project 1280472\ESED_CS_R58\Ex.01\obj\Debug\Ex.01.csproj.CoreCompileInputs.cache
+D:\Project 1280472\ESED_CS_R58\Ex.01\obj\Debug\Ex.01.exe
+D:\Project 1280472\ESED_CS_R58\Ex.01\obj\Debug\Ex.01.pdb
+C:\Users\user\Desktop\Project 1280472 for C#\ESED_CS_R58\Ex.01\bin\Debug\Ex.01.exe.config
+C:\Users\user\Desktop\Project 1280472 for C#\ESED_CS_R58\Ex.01\bin\Debug\Ex.01.exe
+C:\Users\user\Desktop\Project 1280472 for C#\ESED_CS_R58\Ex.01\bin\Debug\Ex.01.pdb
+C:\Users\user\Desktop\Project 1280472 for C#\ESED_CS_R58\Ex.01\obj\Debug\Ex.01.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Project 1280472 for C#\ESED_CS_R58\Ex.01\obj\Debug\Ex.01.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Project 1280472 for C#\ESED_CS_R58\Ex.01\obj\Debug\Ex.01.exe
+C:\Users\user\Desktop\Project 1280472 for C#\ESED_CS_R58\Ex.01\obj\Debug\Ex.01.pdb
+E:\ALL PROJECT\Project 1280472 for C#\ESED_CS_R58\Ex.01\bin\Debug\Ex.01.exe.config
+E:\ALL PROJECT\Project 1280472 for C#\ESED_CS_R58\Ex.01\bin\Debug\Ex.01.exe
+E:\ALL PROJECT\Project 1280472 for C#\ESED_CS_R58\Ex.01\bin\Debug\Ex.01.pdb
+E:\ALL PROJECT\Project 1280472 for C#\ESED_CS_R58\Ex.01\obj\Debug\Ex.01.csproj.AssemblyReference.cache
+E:\ALL PROJECT\Project 1280472 for C#\ESED_CS_R58\Ex.01\obj\Debug\Ex.01.csproj.CoreCompileInputs.cache
+E:\ALL PROJECT\Project 1280472 for C#\ESED_CS_R58\Ex.01\obj\Debug\Ex.01.exe
+E:\ALL PROJECT\Project 1280472 for C#\ESED_CS_R58\Ex.01\obj\Debug\Ex.01.pdb
